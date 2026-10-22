@@ -15,30 +15,16 @@ This template should help get you started developing with Vue 3 in Vite.
   - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
   - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
 
-## Customize configuration
+# Fitness App
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+A fitness tracking web application built with React.
 
-## Project Setup
+Live demo: https://fitness-app-qdv8.vercel.app
 
-```sh
-pnpm install
+## Run locally
+
+```bash
+npm install
+npm run dev
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Compile and Minify for Production
-
-```sh
-pnpm build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
-```
+EOF
